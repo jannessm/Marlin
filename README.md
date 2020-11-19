@@ -25,7 +25,8 @@ https://www.thingiverse.com/thing:3293821
 `#define Z_PROBE_OFFSET_FROM_EXTRUDER 0 // Z offset: -below +above [the nozzle]`
 
 4. Select Servo pin, under the Servo section in **Configuration.h** add this.
-For **Pin 27** (using Pin 27 adapter or cutting the lcd wire) `#define SERVO0_PIN 27`
+For **Pin 27** (using Pin 27 adapter or cutting the lcd wire)
+`#define SERVO0_PIN 27`
 `#define NUM_SERVOS 1` 
 
 For **Pin 29** (soldering the servo wire to the board)
