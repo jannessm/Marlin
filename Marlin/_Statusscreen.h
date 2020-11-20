@@ -34,6 +34,7 @@
 //
 // Status Screen Logo bitmap
 //
+#define STATUS_LOGO_X            2
 #define STATUS_LOGO_Y            8
 #define STATUS_LOGO_WIDTH       39
 
